@@ -1,5 +1,6 @@
 {
     "name": "My_Animations",
+    "version": "0.0.1",
     "description": "Auto-generated LPC assets",
     "dependencies": {
         "device": "*"
